@@ -7,7 +7,7 @@ from common.log import logger
 
 BASE_URL_DM = "https://dayu.qqsuu.cn/xingzuoyunshi/apis.php" 
 
-@plugins.register(name="morning_news",
+@plugins.register(name="xingzuo",
                   desc="获取星座运势",
                   version="1.0",
                   author="wyh",
